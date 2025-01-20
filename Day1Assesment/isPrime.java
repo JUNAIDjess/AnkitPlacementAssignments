@@ -1,4 +1,4 @@
-package Day1Assesment;
+// 2. Checking for Prime Numbers
 import java.util.Scanner; 
 public class isPrime {
     public static void main(String[] args){

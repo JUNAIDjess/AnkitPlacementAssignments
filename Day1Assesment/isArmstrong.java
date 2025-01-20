@@ -1,3 +1,4 @@
+// 4. Calculating Armstrong Numbers
 import java.util.Scanner;
 public class isArmstrong {
     public static void main(String args[]){

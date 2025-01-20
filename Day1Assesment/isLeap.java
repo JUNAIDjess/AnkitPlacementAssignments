@@ -1,4 +1,4 @@
-package Day1Assesment;
+// 3. Validating Leap Years
 import java.util.Scanner;
  public class isLeap{
     public static void main(String args[]){
