@@ -1,3 +1,4 @@
+package Day1Assesment;
 // Determining Even/Odd Numbers
 
 import java.util.Scanner;

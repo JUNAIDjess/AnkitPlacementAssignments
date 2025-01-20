@@ -1,3 +1,4 @@
+package Day1Assesment;
 import java.util.Scanner; 
 public class isPrime {
     public static void main(String[] args){
